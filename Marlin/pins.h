@@ -13,6 +13,8 @@
 #define E1_MS2_PIN -1
 #define DIGIPOTSS_PIN -1
 
+#include "pins_DIMO.h" 
+
 #if MOTHERBOARD == 99
 #define KNOWN_BOARD 1
 
